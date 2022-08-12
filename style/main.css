@@ -1,0 +1,60 @@
+.h-1 {
+    float: left;
+    margin-top: 20px;
+
+}
+
+.nav-link {
+    color: white;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 40px;
+    font-size: x-large;
+    border: 2px solid blue;
+    border-radius: 20px;
+    background-color: rgb(243, 44, 144);
+    transition: 2s;
+
+}
+
+.nav-item :hover {
+    color: rgb(243, 44, 144);
+    background-color: white;
+}
+
+.h-1 h1 {
+    color: blue;
+    margin-left: 10%;
+
+}
+
+.btn {
+    margin-left: 40px;
+    font-size: x-large;
+}
+
+.carousel-item img {
+    height: 700;
+}
+
+.img-1 {
+    height: 400px;
+    width: 100%;
+}
+
+.r,
+.d {
+    margin-top: 15px;
+
+}
+
+.col {
+    color: black;
+    font-size: x-large;
+}
+
+.carousel-item img {
+    height: 700px;
+    width: 500px;
+    margin-top: 30px;
+}
